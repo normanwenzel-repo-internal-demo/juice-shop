@@ -4,8 +4,8 @@
         "template": "",
         "exclusions": [],
         "timeouts": {
-            "perLanguage": 5555,
-            "perFile": 4444
+            "perLanguage": 180,
+            "perFile": 600
         },
         "maxFileSize": 12345,
         "jsEngineGeneration" : 2
