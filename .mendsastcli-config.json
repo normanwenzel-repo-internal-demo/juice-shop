@@ -8,7 +8,7 @@
             "perFile": 600
         },
         "maxFileSize": 12345,
-        "jsEngineGeneration" : 2
+        "jsEngineGeneration" : 1
     }
 }
   
