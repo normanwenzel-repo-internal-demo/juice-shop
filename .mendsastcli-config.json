@@ -1,0 +1,14 @@
+{
+  "scans": {
+        "engines": [],
+        "template": "",
+        "exclusions": [],
+        "timeouts": {
+            "perLanguage": 5555,
+            "perFile": 4444
+        },
+        "maxFileSize": 12345,
+        "jsEngineGeneration" : 2
+    }
+}
+  
